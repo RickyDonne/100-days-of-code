@@ -17,3 +17,5 @@ I will cover these topics in the next 100 days:
 I have also joined the Odin Project to build my foundation in Web Development.
 
 And I have made a target to solve almost 400 - 500 coding problems on codechef or leetcode.
+
+Twitter: https://twitter.com/ricky_donne/status/1344587847395725312?s=20
