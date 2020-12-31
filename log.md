@@ -15,4 +15,5 @@ I will cover these topics in the next 100 days:
 5. Cultural Fit
 
 I have also joined the Odin Project to build my foundation in Web Development.
+
 And I have made a target to solve almost 400 - 500 coding problems on codechef or leetcode.
