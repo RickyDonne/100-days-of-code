@@ -6,7 +6,13 @@
 
 **Thoughts:** 
 
-I will cover these topics in the next 100 days: Data Structures and Algorithms (Coding part and problem solving), System Design, Operating System and DBMS (database management system), Object-Oriented Design, Cultural Fit
+I will cover these topics in the next 100 days: 
+
+1. Data Structures and Algorithms (Coding part and problem solving)
+2. System Design
+3. Operating System and DBMS (database management system)
+4. Object-Oriented Design
+5. Cultural Fit
 
 I have also joined the Odin Project to build my foundation in Web Development.
 And I have made a target to solve almost 400 - 500 coding problems on codechef or leetcode.
