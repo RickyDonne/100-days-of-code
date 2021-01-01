@@ -31,7 +31,7 @@ start, end, nth position & also reverse them using iteration & recursion
 in a singly linked list.
 Read about robot tour optimization and selecting the right jobs.
 
-Link to tweet: https://twitter.com/ricky_donne/status/1345069135013679104?s=20
+Code: https://github.com/RickyDonne/C-Programs/blob/main/DSA/SinglyLinkedlist.c
 
 ### Day : January, , 2021
 
