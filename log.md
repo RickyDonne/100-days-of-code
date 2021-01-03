@@ -55,6 +55,19 @@ It's getting hard to find resources of DS in C language since most are in C++, J
 Books such as Algo design by Skiena and CLRS are good but not DS focused.
 
 
+### Day 3: January, 3rd, 2021
+
+**Today's Progress**:
+Learned a bit of C++ from GeeksforGeeks.Link to CPP: https://practice.geeksforgeeks.org/batch/fork-cpp/ . 
+
+Did my first coding problem on SPOJ. Attended a quiz CDSE hosted by WebDevsIn and got 13 correct out of 20. Practiced Implementation of SLL, DLL and CLL.
+
+**Thoughts:** 
+I could not complete my implementation of CLL. I will try it again tommorow.
+
+My practice Repo: https://github.com/RickyDonne/Practice/tree/main
+
+
 ### Day : January, , 2021
 
 **Today's Progress**:
