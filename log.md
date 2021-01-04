@@ -68,6 +68,19 @@ I could not complete my implementation of CLL. I will try it again tommorow.
 My practice Repo: https://github.com/RickyDonne/Practice/tree/main
 
 
+### Day 4: January, 4th, 2021
+
+**Today's Progress**:
+Completed Introduction to C++, Flow Control, Functions, Arrays and strings.
+Range based loops were interesting and new to me.
+An example: https://github.com/RickyDonne/Practice/blob/main/arrayincpp.cpp
+
+Solved 2 problems in Codechef using C.
+
+**Thoughts:** 
+I need to focus a bit more in C and C++. Before going in depth in DSA. I will be spending few more days with C and C++ before commiting my entire time to DSA. 
+
+
 ### Day : January, , 2021
 
 **Today's Progress**:
