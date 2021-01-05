@@ -81,6 +81,18 @@ Solved 2 problems in Codechef using C.
 I need to focus a bit more in C and C++. Before going in depth in DSA. I will be spending few more days with C and C++ before commiting my entire time to DSA. 
 
 
+### Day 5: January, 5th, 2021
+
+**Today's Progress**:
+Revised some of the theory concepts of C from a course on Udemy. Solved one problem in codewars. 
+Practiced implementaion of CLL.
+
+My code on CLL: https://github.com/RickyDonne/Practice/blob/main/CLL.c
+
+**Thoughts:** 
+Doing an actual C course from Udemy helped me get more clear picture of few concepts. I will need few more days to complete the course.
+
+
 ### Day : January, , 2021
 
 **Today's Progress**:
