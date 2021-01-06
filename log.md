@@ -93,6 +93,19 @@ My code on CLL: https://github.com/RickyDonne/Practice/blob/main/CLL.c
 Doing an actual C course from Udemy helped me get more clear picture of few concepts. I will need few more days to complete the course.
 
 
+### Day 6: January, 6th, 2021
+
+**Today's Progress**:
+Revised few theory concepts of C on arrays, functions and character strings.
+Created a tic tac toe game using C code.
+Code of Tic tac toe: https://github.com/RickyDonne/Tic-Tac-Toe-using-C .
+Practiced implementation of SLL, CLL and DLL.
+
+**Thoughts:** 
+It was fun to make the tictactoe game. I also revised the concepts of arrays and strings in C. I think i might be able to start proper learning of
+DSA in 2-3 days.
+
+
 ### Day : January, , 2021
 
 **Today's Progress**:
