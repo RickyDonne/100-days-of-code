@@ -106,6 +106,17 @@ It was fun to make the tictactoe game. I also revised the concepts of arrays and
 DSA in 2-3 days.
 
 
+### Day 7: January, 7th, 2021
+
+**Today's Progress**:
+Completed learning about the theory concepts of C from a udemy course. Learned a lot about pointers, structures and file IO concepts and implemented them.
+
+A code on structures: https://github.com/RickyDonne/C-Programs/blob/main/Arrays%20and%20pointers/structuresInC.c
+
+**Thoughts:** 
+It was great to learn the theory but now I should start practicing them and start problem solving.
+
+
 ### Day : January, , 2021
 
 **Today's Progress**:
