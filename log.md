@@ -117,6 +117,18 @@ A code on structures: https://github.com/RickyDonne/C-Programs/blob/main/Arrays%
 It was great to learn the theory but now I should start practicing them and start problem solving.
 
 
+### Day 8: January, 8th, 2021
+
+**Today's Progress**:
+Solved around 39 C programs starting from the basic.
+
+Problems: https://github.com/RickyDonne/Practice
+
+**Thoughts:** 
+I would need another day to complete soving basic problems. I would move to proper coding websites after that.
+
+
+
 ### Day : January, , 2021
 
 **Today's Progress**:
