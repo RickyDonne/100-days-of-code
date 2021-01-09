@@ -129,6 +129,17 @@ I would need another day to complete soving basic problems. I would move to prop
 
 
 
+### Day 9: January, 9th, 2021
+
+**Today's Progress**:
+Practiced 34 C programs based on functions, arrays, pointers, strings, structures and unions.
+
+Problems:  https://github.com/RickyDonne/Practice
+
+**Thoughts:** 
+I finished solving basic C programs I will move to coding websites from tomorrow.
+
+
 ### Day : January, , 2021
 
 **Today's Progress**:
