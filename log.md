@@ -140,8 +140,10 @@ Problems:  https://github.com/RickyDonne/Practice
 I finished solving basic C programs I will move to coding websites from tomorrow.
 
 
-### Day : January, , 2021
+### Day 10: January, 10th, 2021
 
 **Today's Progress**:
+Solved few problems on Codechef.
 
 **Thoughts:** 
+It's tough but have to stick with it.
