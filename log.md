@@ -147,3 +147,22 @@ Solved few problems on Codechef.
 
 **Thoughts:** 
 It's tough but have to stick with it.
+
+
+### Day 11: January, 11th, 2021
+
+**Today's Progress**:
+Solved a lot of programs on HackerRank and got the Gold Badge in C . 
+Started doing a course on DSA based on C/C++
+
+**Thoughts:** 
+I need to start learning a bit C++ because I would need it if I want to get into competitive Programming.
+
+
+
+
+### Day : January, , 2021
+
+**Today's Progress**:
+
+**Thoughts:** 
