@@ -160,6 +160,14 @@ I need to start learning a bit C++ because I would need it if I want to get into
 
 
 
+### Day 12: January, 12th, 2021
+
+**Today's Progress**:
+Solved few programs on SPOJ. They were really hard to solve. 
+
+**Thoughts:** 
+I guess I will practice few problems on CODECHEF first before switching back to SPOJ. SPOJ is a bit challenging.
+
 
 ### Day : January, , 2021
 
