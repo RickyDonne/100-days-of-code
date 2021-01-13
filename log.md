@@ -169,6 +169,16 @@ Solved few programs on SPOJ. They were really hard to solve.
 I guess I will practice few problems on CODECHEF first before switching back to SPOJ. SPOJ is a bit challenging.
 
 
+### Day 13: January, 13th, 2021
+
+**Today's Progress**:
+Solved few more problems on CODECHEF. I am getting used to writing clean code and understanding the importance of reading and thinking about a problem first rather than writing code. 
+
+**Thoughts:** 
+Even after getting stuck in a problem it's just a matter of time to find the solution. If you think about a problem and try different ways to solve it you will eventually get to the solution.
+
+
+
 ### Day : January, , 2021
 
 **Today's Progress**:
