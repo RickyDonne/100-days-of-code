@@ -178,6 +178,14 @@ Solved few more problems on CODECHEF. I am getting used to writing clean code an
 Even after getting stuck in a problem it's just a matter of time to find the solution. If you think about a problem and try different ways to solve it you will eventually get to the solution.
 
 
+### Day 14: January, 14th, 2021
+
+**Today's Progress**:
+Solved around 10 problem. The problems now not only focuses on the answer but also have a time limit.
+
+**Thoughts:** 
+I need to optimise my code and have to be careful when using too many loops or recursion as it takes more runtime.
+
 
 ### Day : January, , 2021
 
