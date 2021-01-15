@@ -187,6 +187,14 @@ Solved around 10 problem. The problems now not only focuses on the answer but al
 I need to optimise my code and have to be careful when using too many loops or recursion as it takes more runtime.
 
 
+### Day 15: January, 15th, 2021
+
+**Today's Progress**:
+Solved few more programming problems and focused more on optimizing the code and writing clean code. Also focused on dynamic programming.
+
+**Thoughts:** 
+I guess I am taking too long to solve problem. I have to focus harder.
+
 ### Day : January, , 2021
 
 **Today's Progress**:
