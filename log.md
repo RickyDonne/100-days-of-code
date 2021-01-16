@@ -195,6 +195,16 @@ Solved few more programming problems and focused more on optimizing the code and
 **Thoughts:** 
 I guess I am taking too long to solve problem. I have to focus harder.
 
+
+
+### Day 16: January, 16th, 2021
+
+**Today's Progress**:
+Practiced few C programs. Revised the theories of structures, functions, classes, objects and constructor in C and C++.
+
+**Thoughts:** 
+I will start with the theory of DSA from tommorow.
+
 ### Day : January, , 2021
 
 **Today's Progress**:
