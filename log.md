@@ -205,6 +205,13 @@ Practiced few C programs. Revised the theories of structures, functions, classes
 **Thoughts:** 
 I will start with the theory of DSA from tommorow.
 
+
+
+### Day 17: January, 17th, 2021
+
+**Today's Progress**: Learned about Template classes in C++ then revised Time and space complexity. Also focused a bit on recursion. Practiced Tail and head recursion.
+
+
 ### Day : January, , 2021
 
 **Today's Progress**:
