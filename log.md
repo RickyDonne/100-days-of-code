@@ -212,6 +212,14 @@ I will start with the theory of DSA from tommorow.
 **Today's Progress**: Learned about Template classes in C++ then revised Time and space complexity. Also focused a bit on recursion. Practiced Tail and head recursion.
 
 
+### Day 18: January, 18th, 2021
+
+**Today's Progress**:
+Learnt about tree, indirect and nested recursion. Practiced few problems based on recursion like the Tower Of Hanoi and Taylor series. Also created an account on Codeforces and will try to compete weekly in events.
+
+**Thoughts:** 
+
+
 ### Day : January, , 2021
 
 **Today's Progress**:
