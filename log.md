@@ -220,6 +220,16 @@ Learnt about tree, indirect and nested recursion. Practiced few problems based o
 **Thoughts:** 
 
 
+### Day 19: January, 19th, 2021
+
+**Today's Progress**:
+Revised recursion that i learnt about yesterday. Then mapped down the algorithms i need to learn over the years and what to practice in future. Practiced problems on CPP on hackerrank. Started taking an udemy course on CPP.
+
+**Thoughts:** 
+I need to learn CPP thoroghly and it's implementation using STL. 
+
+
+
 ### Day : January, , 2021
 
 **Today's Progress**:
