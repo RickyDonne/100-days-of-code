@@ -230,6 +230,15 @@ I need to learn CPP thoroghly and it's implementation using STL.
 
 
 
+### Day 20: January, 20th, 2021
+
+**Today's Progress**:
+Couldn't do much today because of the packed schedule. But did few problems based on arrays using C++. 
+
+**Thoughts:** 
+
+
+
 ### Day : January, , 2021
 
 **Today's Progress**:
