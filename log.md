@@ -239,6 +239,17 @@ Couldn't do much today because of the packed schedule. But did few problems base
 
 
 
+### Day 21: January, 21th, 2021
+
+**Today's Progress**:
+Lately being busy with college but still trying my best to coding and learn with my pace.
+Learnt about vectors in C++ and practiced problems on HackerRank. Pretty cool stuff, I am loving C++ more than C. 
+
+**Thoughts:** 
+Need to focus more.
+
+
+
 ### Day : January, , 2021
 
 **Today's Progress**:
