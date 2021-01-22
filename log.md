@@ -250,6 +250,17 @@ Need to focus more.
 
 
 
+### Day 22: January, 22nd, 2021
+
+**Today's Progress**:
+Couldn't do much but Practiced problems on topics like statements, operators and controlling program flow in C++.
+
+**Thoughts:** 
+
+I need to complete the C++ course of udemy within 2 days
+
+
+
 ### Day : January, , 2021
 
 **Today's Progress**:
