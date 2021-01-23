@@ -261,6 +261,15 @@ I need to complete the C++ course of udemy within 2 days
 
 
 
+### Day 23: January, 23rd, 2021
+
+**Today's Progress**:
+Solved few problems on characters, strings and functions in C++. 
+
+**Thoughts:** 
+
+
+
 ### Day : January, , 2021
 
 **Today's Progress**:
