@@ -270,6 +270,16 @@ Solved few problems on characters, strings and functions in C++.
 
 
 
+### Day 24: January, 24th, 2021
+
+**Today's Progress**:
+Solved few problems on pointers and references in CPP and started learning about classes and objects.
+
+**Thoughts:** 
+
+
+
+
 ### Day : January, , 2021
 
 **Today's Progress**:
