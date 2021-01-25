@@ -279,6 +279,16 @@ Solved few problems on pointers and references in CPP and started learning about
 
 
 
+### Day 25: January, 25th, 2021
+
+**Today's Progress**:
+Solved few problems and a quiz on GFG. Didn't learn any new topics but revised old problems.
+
+**Thoughts:** 
+
+
+
+
 
 ### Day : January, , 2021
 
