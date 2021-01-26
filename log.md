@@ -288,6 +288,12 @@ Solved few problems and a quiz on GFG. Didn't learn any new topics but revised o
 
 
 
+### Day 26: January, 26th, 2021
+
+**Today's Progress**:
+Solved few problems on GFG based on Arrays and conditions in C.
+
+**Thoughts:** 
 
 
 ### Day : January, , 2021
@@ -295,3 +301,4 @@ Solved few problems and a quiz on GFG. Didn't learn any new topics but revised o
 **Today's Progress**:
 
 **Thoughts:** 
+
