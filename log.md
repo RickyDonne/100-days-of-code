@@ -293,7 +293,17 @@ Solved few problems and a quiz on GFG. Didn't learn any new topics but revised o
 **Today's Progress**:
 Solved few problems on GFG based on Arrays and conditions in C.
 
-**Thoughts:** 
+**Thoughts:**
+
+
+
+### Day 27: January, 27th, 2021
+
+**Today's Progress**:
+Solved bit of basic problems on C and C++. Started reading about bit operators and solved few problems.
+
+Thoughts:
+Bit operators are so over-powered, I never thought these can alter data and values in such extent especially XOR.
 
 
 ### Day : January, , 2021
