@@ -306,9 +306,10 @@ Thoughts:
 Bit operators are so over-powered, I never thought these can alter data and values in such extent especially XOR.
 
 
-### Day : January, , 2021
+### Day 28: January, 28th, 2021
 
 **Today's Progress**:
+Attended a contest on GFG based on C++ and scored 220 out of 245. Solved few problems on bit manipulation. Read a blog on classes and objects.
 
 **Thoughts:** 
 
