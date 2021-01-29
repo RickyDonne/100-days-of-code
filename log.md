@@ -217,7 +217,6 @@ I will start with the theory of DSA from tommorow.
 **Today's Progress**:
 Learnt about tree, indirect and nested recursion. Practiced few problems based on recursion like the Tower Of Hanoi and Taylor series. Also created an account on Codeforces and will try to compete weekly in events.
 
-**Thoughts:** 
 
 
 ### Day 19: January, 19th, 2021
@@ -234,8 +233,6 @@ I need to learn CPP thoroghly and it's implementation using STL.
 
 **Today's Progress**:
 Couldn't do much today because of the packed schedule. But did few problems based on arrays using C++. 
-
-**Thoughts:** 
 
 
 
@@ -266,7 +263,6 @@ I need to complete the C++ course of udemy within 2 days
 **Today's Progress**:
 Solved few problems on characters, strings and functions in C++. 
 
-**Thoughts:** 
 
 
 
@@ -275,7 +271,6 @@ Solved few problems on characters, strings and functions in C++.
 **Today's Progress**:
 Solved few problems on pointers and references in CPP and started learning about classes and objects.
 
-**Thoughts:** 
 
 
 
@@ -284,7 +279,6 @@ Solved few problems on pointers and references in CPP and started learning about
 **Today's Progress**:
 Solved few problems and a quiz on GFG. Didn't learn any new topics but revised old problems.
 
-**Thoughts:** 
 
 
 
@@ -292,8 +286,6 @@ Solved few problems and a quiz on GFG. Didn't learn any new topics but revised o
 
 **Today's Progress**:
 Solved few problems on GFG based on Arrays and conditions in C.
-
-**Thoughts:**
 
 
 
@@ -311,5 +303,8 @@ Bit operators are so over-powered, I never thought these can alter data and valu
 **Today's Progress**:
 Attended a contest on GFG based on C++ and scored 220 out of 245. Solved few problems on bit manipulation. Read a blog on classes and objects.
 
-**Thoughts:** 
+### Day 29: January, 29th, 2021
+
+**Today's Thoughts**:
+Read and practiced about classes and objects in C++. Also about constructors, deconstructors, function & operator overloading.
 
