@@ -308,3 +308,10 @@ Attended a contest on GFG based on C++ and scored 220 out of 245. Solved few pro
 **Today's Thoughts**:
 Read and practiced about classes and objects in C++. Also about constructors, deconstructors, function & operator overloading.
 
+
+
+### Day 30: January, 30th, 2021
+
+**Today's Progress**:
+Practiced few programs in hackerrank and got the gold badge in Cpp
+
