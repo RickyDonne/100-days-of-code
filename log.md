@@ -315,3 +315,7 @@ Read and practiced about classes and objects in C++. Also about constructors, de
 **Today's Progress**:
 Practiced few programs in hackerrank and got the gold badge in Cpp
 
+### Day 31: January, 31st, 2021
+
+**Today's Thoughts**:
+Couldn't do much today so just revised what i learnt yesterday.
