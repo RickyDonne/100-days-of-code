@@ -326,3 +326,10 @@ Couldn't do much today so just revised what i learnt yesterday.
 
 **Today's Thoughts**:
 Had some fun with scratch. Then learned about Selection, insertion, bubble and merge sort in Cpp/C. Also solved few problems on each of them. Revised some of the C concepts.
+
+
+### Day 33: February, 2nd, 2021
+
+**Today's Thoughts**:
+Learned about quick sort. Revised other sorting algorithms that i learnt yesterday. Implemented Insertion, appending and displaying of arrays using structures in C.
+
