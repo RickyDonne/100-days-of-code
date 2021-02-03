@@ -333,3 +333,9 @@ Had some fun with scratch. Then learned about Selection, insertion, bubble and m
 **Today's Thoughts**:
 Learned about quick sort. Revised other sorting algorithms that i learnt yesterday. Implemented Insertion, appending and displaying of arrays using structures in C.
 
+
+
+### Day 34: February, 3rd, 2021
+
+**Today's Thoughts**:
+Learned implementation of arrays as ADT. Also linear search and Binary Search and a bit of hashing to find missing array element.
