@@ -339,3 +339,12 @@ Learned about quick sort. Revised other sorting algorithms that i learnt yesterd
 
 **Today's Thoughts**:
 Learned implementation of arrays as ADT. Also linear search and Binary Search and a bit of hashing to find missing array element.
+
+
+### Day 35: February, 4th, 2021
+
+**Today's Progress**:
+> Revised some string operations
+> Revised about Classes and Objects in CPP
+> Revised the sorting algorithms and Linear, binary search
+> Participated in a codechef contest. Solved 1st program. Partially solved the second.
