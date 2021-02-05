@@ -348,3 +348,10 @@ Learned implementation of arrays as ADT. Also linear search and Binary Search an
 > Revised about Classes and Objects in CPP
 > Revised the sorting algorithms and Linear, binary search
 > Participated in a codechef contest. Solved 1st program. Partially solved the second.
+
+### Day 36: February, 5th, 2021
+
+**Today's Progress**:
+>Learnt about matrices
+>Wrote CPP codes for Diagonal, Triangular, symmetric, tri-diagonal, tri-band and toeplitz matrix
+>Participated in Codeforces Div2 contest. Could solve the first but couldn't understand the second problem.
