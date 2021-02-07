@@ -355,3 +355,20 @@ Learned implementation of arrays as ADT. Also linear search and Binary Search an
 >Learnt about matrices
 >Wrote CPP codes for Diagonal, Triangular, symmetric, tri-diagonal, tri-band and toeplitz matrix
 >Participated in Codeforces Div2 contest. Could solve the first but couldn't understand the second problem.
+
+### Day 37: February, 6th, 2021
+
+**Today's Progress**:
+Today was a busy day so did two tasks today
+
+>Revised few basic sorting algos
+>practiced few problems that i previously struggled with.
+
+
+
+### Day 38: February, 7th, 2021
+
+**Today's Progress**:
+> Participated in codeforces div2 #700 contest
+>Revised concepts on classes and objects in C++. 
+>Went over few basic python concepts for college syllabus
