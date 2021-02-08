@@ -372,3 +372,7 @@ Today was a busy day so did two tasks today
 > Participated in codeforces div2 #700 contest
 >Revised concepts on classes and objects in C++. 
 >Went over few basic python concepts for college syllabus
+
+### Day 39: February, 8th, 2021
+**Today's Progress**:
+>Started solving the codechef february long challenge. Solved 3 problems but did learn a lot of stuff while trying to solve and think of a solution. Contests really put you under a good pressure to learn things better. 
