@@ -376,3 +376,28 @@ Today was a busy day so did two tasks today
 ### Day 39: February, 8th, 2021
 **Today's Progress**:
 >Started solving the codechef february long challenge. Solved 3 problems but did learn a lot of stuff while trying to solve and think of a solution. Contests really put you under a good pressure to learn things better. 
+
+
+### Day 40: February, 9th, 2021
+**Today's Progress**:
+Practiced few c problems in GFG.
+
+
+### Day 41: February, 10th, 2021
+**Today's Progress**:
+>Solved some python problems for college
+>Struggled a bit but solved one of the codechef long challenge problems.
+
+### Day 42: February, 11th, 2021
+**Today's Progress**:
+Solved few C++ problems in GFG
+
+
+### Day 43: February, 12th, 2021
+**Today's Progress**:
+Solved few C++ problems in Codechef
+
+
+### Day 44: February, 13th, 2021
+**Today's Progress**:
+Solved few problems in Codechef and GFG with C and C++.
