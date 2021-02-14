@@ -401,3 +401,8 @@ Solved few C++ problems in Codechef
 ### Day 44: February, 13th, 2021
 **Today's Progress**:
 Solved few problems in Codechef and GFG with C and C++.
+
+
+### Day 45: February, 14th, 2021
+**Today's Progress**:
+Solved and practiced problems related to Vectors, string-stream and bit manipulations with C++.
