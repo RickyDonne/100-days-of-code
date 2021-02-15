@@ -406,3 +406,9 @@ Solved few problems in Codechef and GFG with C and C++.
 ### Day 45: February, 14th, 2021
 **Today's Progress**:
 Solved and practiced problems related to Vectors, string-stream and bit manipulations with C++.
+
+
+### Day 46: February, 15th, 2021
+**Today's Progress**:
+>Practiced few questions on linear and binary search and revised few problems on arrays.
+>Tried solving problems from Educational Codeforces Round 104 Div 2.
